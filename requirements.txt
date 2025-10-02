@@ -1,6 +1,9 @@
 streamlit
+scikit-learn==1.5.1
+imbalanced-learn==1.11.0
 pandas
 numpy
-scikit-learn == 1.5.1
-joblib
+joblib==1.4.2
+matplotlib
+
 
